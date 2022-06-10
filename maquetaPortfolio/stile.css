@@ -1,0 +1,45 @@
+.mat-card {
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    padding-right: 12px;
+}
+
+.div#back-Image {
+    width: 1340%;
+    height: 400px;
+}
+
+.profile-image {
+    width: 300;
+    height: 150;
+    margin: 5px;
+    align-content: initial;
+}
+
+div#info-actions {
+    display: flex;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.mr-auto {
+    margin-right: 0!important;
+    margin-left: 0 !important;
+}
+
+.imgcont {
+    width: 1340%;
+    height: 400px;
+    align-content: center;
+}
+
+.container-fluid {
+    text-align: initial;
+    border-radius: 5px;
+    margin-right: 0!important;
+    margin-left: 0 !important;
+    border: 1px solid brown;
+}
